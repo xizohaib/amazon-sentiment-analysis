@@ -187,7 +187,7 @@ amazon-sentiment-analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/amazon-sentiment-analysis.git
+git clone https://github.com/xizohaib/amazon-sentiment-analysis.git
 ```
 
 ### 2. Navigate to the Project
